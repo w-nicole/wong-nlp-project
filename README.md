@@ -1,3 +1,10 @@
+# Added text pt. 2
+
+Below is work done towards replicating the Wu & Dredze 2019 paper referenced later on in this text, which was done during a UROP under Dr. Yoon Kim investigating semisupervised methods of learning better (i.e. SOTA) POS accuracy leveraging techniques that spanned different languages.
+
+Due to ease of usage and strict time constraints, to be able to complete the project with limited resources and guidance, it was necessary to use work from a previous iteration. Furthermore, that the replication numbers could be re-confirmed with past research records could not be done, due to time constraints and bandwidth constraints.
+
+Every effort, however, was made to assure with reasonable confidence that this would reasonably replicate an acceptable reproduction of the Wu/Dredze numbers (note that after significant effort, the method to get the extremely exact numbers either on our end or theirs was lost, but the replication was deemed reasonable and safe, in the past UROP that this code is from).
 
 # Added text
 

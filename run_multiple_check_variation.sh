@@ -7,7 +7,7 @@ freeze=${4:-"-1"}
 
 model_name=$(echo "$model" | tr '/' '\n' | tail -n1)
 
-save_path=${5:-"/nobackup/users/wongn/crosslingual-nlp-comparison/experiments"}
+save_path=${5:-"/nobackup/users/wongn/nlp-ox/wong-nlp-project/experiments"}
 
 src="English"
 tgt=(Bulgarian Danish German English Spanish Persian Hungarian Italian Dutch Polish Portuguese Romanian Slovak Slovenian Swedish)
